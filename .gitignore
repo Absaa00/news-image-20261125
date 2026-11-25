@@ -1,0 +1,14 @@
+# news-image-20261125 rebuild round 2 - local-only ignores
+__pycache__/
+*.pyc
+*.pyo
+/output/
+entry.png
+out*.png
+*.log
+.DS_Store
+Thumbs.db
+.venv/
+venv/
+.pytest_cache/
+*.tmp
